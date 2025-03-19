@@ -1,4 +1,7 @@
 import { useState } from 'react'
+import Greeting from './components/Greeting';
+import NameInput from './components/NameInput';
+import Weekdays from './components/Weekdays';
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
